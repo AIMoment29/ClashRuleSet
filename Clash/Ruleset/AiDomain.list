@@ -28,10 +28,6 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,usefathom.com
-DOMAIN-SUFFIX,cdn.anthropic.com
-DOMAIN-SUFFIX,a-cdn.anthropic.com
-DOMAIN-SUFFIX,api.anthropic.com
-DOMAIN-SUFFIX,a-api.anthropic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,sentry.io
 
